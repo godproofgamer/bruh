@@ -1,0 +1,5 @@
+{
+	"ip":"mainsmpiYWR.aternos.me:58503",
+	"port": "58503",
+	"name": "afkbot"
+}
